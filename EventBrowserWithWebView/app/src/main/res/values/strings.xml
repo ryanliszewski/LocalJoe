@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EventBrowser</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search Here</string>
+    <string name="search_label">Search</string>
+    <string name="settings_description">Searching the database for title.</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected">No Location Detected</string>
+
+</resources>
